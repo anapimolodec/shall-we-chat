@@ -8,8 +8,8 @@ Simple Chat Application where users can create chat rooms, invite other users, a
 
 The Back End is supported by [Chat Engine](https://chatengine.io/).
 
-###### See the live [demo](https://shall-we-chat.netlify.app/)!
-In case you don't want to register, please type "guest" for both username and password!
+## See the live [demo](https://shall-we-chat.netlify.app/)!
+###### In case you don't want to register, please type "guest" for both username and password!
 
 
 ###### References:
