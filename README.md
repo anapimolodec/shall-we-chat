@@ -2,7 +2,7 @@
 
 # Shall We Chat?
 
-## YEAS! 
+###### YEAS! please join our chat rooms!
 
 Simple Chat Application where users can create chat rooms, invite other users, and have some good quality chatting!
 
